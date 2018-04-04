@@ -1,4 +1,4 @@
-# cli_task
+# CLI task - notes
 
 The task should be run (from the src directory) like this:
 
